@@ -1,0 +1,15 @@
+----Questions----
+1. Type of twisted pair cable (category of twisted pair cable) :- 
+	https://www.techtarget.com/searchdatacenter/definition/Categories-of-twisted-pair-cabling-systems#:~:text=Twisted%2Dpair%20cable%20categories,Shielded%20twisted%20pair%20(STP).
+2. Color combination of twisted pair cable :- 
+	https://www.fiberoptics4sale.com/blogs/archive-posts/95046918-what-is-unshielded-twisted-pair-utp-cable#:~:text=In%20UTP%20cable%2C%20each%20pair,white%20with%20a%20color%20stripe.
+3. What is RJ45 and it's significance?
+	https://www.electronicshub.org/rj45-connector/
+4. Use of Serial Line Tester (SLT).
+	https://www.molexces.com/product/slt3-tester/
+5. Good Cabeling v/s Bad Cabeling and impact of Bad Cabeling.
+	https://www.xxpert.com/good-network-cabling-vs-bad-network-cabling/#:~:text=Bad%20cabling%20doesn't%20let,these%20problems%20quickly%20become%20apparent.
+	https://www.linkedin.com/pulse/impact-poor-cable-management-business-rob-white
+6. In Standard ethernet how many wires are used for communication and what is the purpose of extra wires?
+	Ans:- 
+7. In Fast ethernet hw many wires are used for communication and what is the purpose of extra wires?
